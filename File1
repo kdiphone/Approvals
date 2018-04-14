@@ -1,2 +1,6 @@
 This is first line of file 1.
+<<<<<<< Upstream, based on 13e6ae3d6ac6aa85c71fc5b644b6874d2da4536d
 This is code introduced by developer 1.
+=======
+This is code introduced by developer 2.
+>>>>>>> 9904736 code by developer 2
